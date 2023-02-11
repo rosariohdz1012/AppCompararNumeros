@@ -13,11 +13,11 @@ public class CompararNumeros {
         String salida;
 
         primero = Integer.parseInt(JOptionPane.showInputDialog(null,
-                "Proporcione un numero","Primero valor ",JOptionPane.INFORMATION_MESSAGE));
+                "Proporcione valor 1 ","Primero valor ",JOptionPane.INFORMATION_MESSAGE));
         segundo = Integer.parseInt(JOptionPane.showInputDialog(null,
-                "Proporcione un valor ","Segundo valor ", JOptionPane.INFORMATION_MESSAGE));
+                "Proporcione valor 2 ","Segundo valor ", JOptionPane.INFORMATION_MESSAGE));
         tercero = Integer.parseInt(JOptionPane.showInputDialog(null,
-               "Proporcione un valor ", "Tercer valor ", JOptionPane.INFORMATION_MESSAGE ));
+               "Proporcione valor  3 ", "Tercer valor ", JOptionPane.INFORMATION_MESSAGE ));
 
 
         //PROCESO
@@ -59,6 +59,6 @@ public class CompararNumeros {
                 "\nEl numero mediano es: " + mediano +
                 "\nEl numero pequenio es: " + pequenio;
 
-                JOptionPane.showMessageDialog(null,salida,"RESULTADO fINAL ",JOptionPane.INFORMATION_MESSAGE);
+                JOptionPane.showMessageDialog(null,salida,"RESULTADO FINAL ",JOptionPane.INFORMATION_MESSAGE);
     }
 }
