@@ -2,7 +2,7 @@
 Comparacion de tres numeros
 
 ## Etapa 01. Descripcion del problema
-se requiere un programa en java para determinar cual es el numreo mas peque;o,
+Se requiere un programa en java para determinar cual es el numreo mas peque;o,
 cual es el mas grande, y cual es el intermedio de los tres ingresados .
 
 ## Etapa  02.  Definicion de la solucion
@@ -47,8 +47,23 @@ es pequeño y se le asigna el valor de primero
 ~~~
 
 ## Etapa03. Diseño de la solucion
+________________________
+Proporcione valor 1
+_______________________
+Proporcione valor 2
+______________________
+Proporcione valor 3
 
-El numero grande es:
-el numero mediano es:
-El numero pequeño es:
 
+___________________________
+El numero grande es: 66   
+                          
+                          
+El numero mediano es: 20  
+                         
+                          
+El numero pequeño es: 10  
+                                                 
+_______________________ 
+
+![](https://github.com/rosariohdz1012/AppCompararNumeros/blob/master/CompararNumeross.png)
