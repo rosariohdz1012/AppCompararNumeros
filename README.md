@@ -48,4 +48,7 @@ es pequeño y se le asigna el valor de primero
 
 ## Etapa03. Diseño de la solucion
 
+El numero grande es:
+el numero mediano es:
+El numero pequeño es:
 
