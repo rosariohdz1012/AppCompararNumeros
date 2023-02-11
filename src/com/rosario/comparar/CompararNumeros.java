@@ -20,7 +20,7 @@ public class CompararNumeros {
                "Proporcione valor  3 ", "Tercer valor ", JOptionPane.INFORMATION_MESSAGE ));
 
 
-        //PROCESO
+        //PROCESO DE APLICACION
 
         if (primero>segundo && primero>tercero) {
             grande = primero;
