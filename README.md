@@ -17,16 +17,35 @@ solicitar el primer numero
 solicitar el segundo numero
 solicitar el tercer  numero
 
-si el primer numero es mayor al segundo  y el primer  numero es mayor al tercero 
+SI el primero es mayor al segundo  y el primero es mayor al tercero 
 es grande y se le asigna el valor de primero
-y si el segundo numero es mayor al tercero 
+y SI el segundo es mayor al tercero 
 es mediano y se le asigna el valor de segundo 
 es pequenio y se le asigna el valor de tercero
-si no si tercero es mayor a segundo 
+SI NO SI tercero es mayor a segundo 
 es mediano y se le asigna el valor de tercero 
 es pequenio y se le asigna el valor de segundo
 
-si segundo es mayor al primer y segundo es mayor  a tercero 
+SI segundo es mayor al primero y segundo es mayor a tercero 
 es grande y se le asigna  el valor de segundo
-y si  el primer numero  es mayor a tercero
-es mediano y se le asigna el valor de  primer
+y si  el primero es mayor a tercero
+es mediano y se le asigna el valor de  primero
+es pequenio y se le agrega el valor de tercero
+SI NO SI 
+es mediano y se le asigna el valor de tercero
+es chico y se le asigna el valor de primero
+
+SI tercero es mayor a primero y tercero es mayor a segundo 
+es grande y se le asigna el valor de tercero
+SI primero y se le asigna el valor de segundo 
+es mediano y se le asigna el valor de primero
+es pequenio y se le asigna el valor de segundo
+SI NO SI 
+es mediano y se le asigna el valor de segundo
+es pequeño y se le asigna el valor de primero
+
+~~~
+
+## Etapa03. Diseño de la solucion
+
+
